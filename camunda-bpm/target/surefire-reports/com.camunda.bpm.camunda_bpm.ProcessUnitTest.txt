@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.camunda.bpm.camunda_bpm.ProcessUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.909 sec
